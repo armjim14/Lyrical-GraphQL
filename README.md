@@ -7,7 +7,9 @@
 
 ## How to run the app:
 ### 1. Git clone this repo
-### 2. open index.html in your browser
+### 2. npm i
+### 3. node index.js
+### 4. open http://localhost:4000/
 
 ### This app is not deploy but you can see my other projects in my portfolio
 ### http://armjimportfolio.herokuapp.com/
