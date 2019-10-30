@@ -11,4 +11,3 @@ export default gql`
         }
     }
 `;
-// ! in query means it is require
